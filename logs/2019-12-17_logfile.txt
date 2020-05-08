@@ -1,0 +1,47 @@
+2019-12-17 12:31:36.0911 INFO Returned all owners from database.
+2019-12-17 12:52:52.4410 INFO Returned all owners from database.
+2019-12-17 12:53:00.3502 INFO Returned owner with id: 1
+2019-12-17 12:53:05.3973 ERROR Owner with id: 1000, hasn't been found in db.
+2019-12-17 12:53:11.3369 ERROR Owner with id: 1000, hasn't been found in db.
+2019-12-17 12:54:08.2596 ERROR Owner with id: 1000, hasn't been found in db.
+2019-12-17 12:54:54.9982 ERROR Owner with id: 1000, hasn't been found in db.
+2019-12-17 12:55:04.2399 INFO Returned owner with id: 1
+2019-12-17 12:55:10.2930 INFO Returned all owners from database.
+2019-12-17 12:55:16.8139 ERROR Owner with id: 1000, hasn't been found in db.
+2019-12-17 12:56:59.2035 ERROR Owner with id: 1000, hasn't been found in db.
+2019-12-17 13:00:43.3237 INFO Returned all owners from database.
+2019-12-17 13:00:55.6092 ERROR Owner with id: 1000, hasn't been found in db.
+2019-12-17 13:45:47.6053 ERROR Something went wrong inside GetOwnerById action: Unknown column 'c.ProductID' in 'field list'
+2019-12-17 13:46:54.2512 ERROR Something went wrong inside GetOwnerById action: Unknown column 'c.ProductID' in 'field list'
+2019-12-17 14:21:08.4021 INFO Returned all owners from database.
+2019-12-17 14:24:14.6829 INFO Returned all owners from database.
+2019-12-17 14:25:14.5533 ERROR Something went wrong inside GetAllOwners action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Category -> IEnumerable`1
+Entities.Models.Category -> System.Collections.Generic.IEnumerable`1[[Entities.DataTransferObjects.CategoryDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2019-12-17 14:27:36.9263 INFO Returned all owners from database.
+2019-12-17 14:30:49.1242 INFO Returned all owners from database.
+2019-12-17 14:31:01.4002 ERROR Something went wrong inside GetAllOwners action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Category -> IEnumerable`1
+Entities.Models.Category -> System.Collections.Generic.IEnumerable`1[[Entities.DataTransferObjects.CategoryDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2019-12-17 14:32:32.3104 INFO Returned all owners from database.
+2019-12-17 14:32:37.6942 ERROR Something went wrong inside GetAllOwners action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Category -> IEnumerable`1
+Entities.Models.Category -> System.Collections.Generic.IEnumerable`1[[Entities.DataTransferObjects.CategoryDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2019-12-17 14:44:16.1843 INFO Returned all owners from database.
+2019-12-17 14:45:14.2317 INFO Returned all owners from database.
+2019-12-17 14:45:16.2288 ERROR Something went wrong inside GetAllOwners action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Category -> IEnumerable`1
+Entities.Models.Category -> System.Collections.Generic.IEnumerable`1[[Entities.DataTransferObjects.CategoryDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2019-12-17 14:46:13.0091 INFO Returned all owners from database.
+2019-12-17 14:48:21.2141 INFO Returned all owners from database.
+2019-12-17 14:48:54.1840 INFO Returned all owners from database.
+2019-12-17 14:49:49.5580 INFO Returned all owners from database.
+2019-12-17 14:50:32.4549 INFO Returned all owners from database.

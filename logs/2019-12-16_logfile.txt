@@ -1,0 +1,4 @@
+2019-12-16 19:09:59.2929 INFO  info from controller
+2019-12-16 19:09:59.3733 DEBUG  debug from controller
+2019-12-16 19:09:59.3733 WARN warn from controller
+2019-12-16 19:09:59.3733 ERROR error from controller
