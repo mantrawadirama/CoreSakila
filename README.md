@@ -1,5 +1,24 @@
 # CoreSakila
-.Net core with Sakila DB
+<ul>
+  <li>
+.Net core Web API
+  </li>
+  <li>
+    My Sql( Sakila DB)
+  </li>
+  <li>
+    Repository Pattern
+  </li>
+  <li>
+    Dependency Injection
+  </li>
+  <li>
+    Singleton Pattern
+  </li>
+  <li>
+    Factory Pattern
+  </li>
+  </ul>
 
 <Table>
   <tr>
