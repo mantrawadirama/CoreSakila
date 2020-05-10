@@ -2,8 +2,10 @@
 .Net core with Sakila DB
 
 <Table>
+  <tr>
   <th> Reference</th>
   <th> Url</th>
+  </tr>
   <tr>
     <td>
       1
