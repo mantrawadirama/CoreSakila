@@ -17,8 +17,7 @@
    <tr>
     <td>
       2
-   </td>   
-  
+   </td> 
     <td>
     https://medium.com/@chathuranga94/generic-repository-pattern-for-asp-net-core-9e3e230e20cb
   </td>
@@ -26,8 +25,7 @@
    <tr>
     <td>
       3
-   </td>   
-  
+   </td>
     <td>
    https://www.growthaccelerationpartners.com/tech/implement-repository-pattern-net-core/
   </td>
@@ -35,8 +33,7 @@
    <tr>
     <td>
       4
-   </td>   
- 
+   </td>
     <td>
    https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design
 
